@@ -59,17 +59,17 @@ export const covers2 = [{
 
 export const feed = [{
         img: "/img/sushipic.webp",
-        name: "Shusi",
+        name: "Sushi",
         price: "Start from 100 yen (Rp.12.000)",
     },
     {
         img: "/img/sushipic.webp",
-        name: "Shusi",
+        name: "Sushi",
         price: "Start from 100 yen (Rp.12.000)",
     },
     {
         img: "/img/sushipic.webp",
-        name: "Shusi",
+        name: "Sushi",
         price: "Start from 100 yen (Rp.12.000)",
     },
 ]

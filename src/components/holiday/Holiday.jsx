@@ -3,9 +3,9 @@ import React from 'react'
 const Holiday = () => {
   return (
     <>
-        <div className='relative center border-blue-900 border-2 mt-5 lg:mt-8 lg:space-y-5'>
+        <div className='relative center mt-5 lg:mt-8 lg:space-y-5'>
             <h2 className='text-lg md:text-2xl lg:text-4xl font-extrabold text-center mb-1 text-red-800'>Start Your Holiday</h2>
-            <div className='space-x-3 flex justify-center border-2 border-green-700'>
+            <div className='space-x-3 flex justify-center'>
                 
                 <div className='w-[90px] md:w-[100px] lg:w-[190px] h-1 md:h-2 lg:h-4 bg-red-800 mt-2 rounded-xl'></div>
         
