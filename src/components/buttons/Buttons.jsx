@@ -3,15 +3,15 @@ import React from 'react'
 const Buttons = () => {
   return (
     <>
-        <div className='border-4 border-red-400 flex justify-center'>
-            <div className='p-1'>
-                <button className='w-28 h-28 bg-red-800 rounded-full'>
-                    <h3 className='text-white font-semibold'>Rekomenasi Tempat</h3>
+        <div className='border-4 border-red-400 flex justify-center mt-8'>
+            <div className='px-7'>
+                <button className='w-20 h-20 md:w-28 md:h-28 lg:w-36 lg:h-36 bg-red-800 rounded-full'>
+                    <h3 className='text-white font-semibold text-[11px] md:text-sm lg:text-lg'>Rekomendasi Tempat</h3>
                 </button>
             </div>
-            <div className='p-1'>
-                <button className='w-28 h-28 bg-red-800 rounded-full'>
-                    <h3 className='text-white font-semibold'>Rekomendasi Tempat</h3>
+            <div className='px-7'>
+                <button className='w-20 h-20 md:w-28 md:h-28 lg:w-36 lg:h-36 bg-red-800 rounded-full'>
+                    <h3 className='text-white font-semibold text-[11px] md:text-sm lg:text-lg'>Rekomendasi Tempat</h3>
                 </button>
             </div>
         </div>
